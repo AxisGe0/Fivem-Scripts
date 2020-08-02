@@ -15,4 +15,4 @@ Requirements
 
 This Function is only for Police And EMS
 write /imp to impound The Vehicle
-You Cant Impound If ur inside The Car
+,You Cant Impound If ur inside The Car
